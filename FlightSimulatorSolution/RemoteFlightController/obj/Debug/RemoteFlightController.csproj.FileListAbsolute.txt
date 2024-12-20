@@ -1,0 +1,11 @@
+C:\Users\jislo\source\repos\FlightSimulatorSolution\RemoteFlightController\obj\Debug\RemoteFlightController.csproj.AssemblyReference.cache
+C:\Users\jislo\source\repos\FlightSimulatorSolution\RemoteFlightController\obj\Debug\RemoteFlightController.csproj.CoreCompileInputs.cache
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\bin\Debug\RemoteFlightController.dll
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\bin\Debug\RemoteFlightController.pdb
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\obj\Debug\RemoteFlightController.csproj.AssemblyReference.cache
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\obj\Debug\RemoteFlightController.csproj.CoreCompileInputs.cache
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\obj\Debug\RemoteFl.E356908A.Up2Date
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\obj\Debug\RemoteFlightController.dll
+C:\Users\nenki\Downloads\FlightSimulatorSolution-20241220T125120Z-001\FlightSimulatorSolution\RemoteFlightController\obj\Debug\RemoteFlightController.pdb
